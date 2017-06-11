@@ -1,0 +1,6 @@
+c:\users\jihan\documents\visual studio 2017\Projects\Clustering\Clustering\bin\Debug\Clustering.exe.config
+c:\users\jihan\documents\visual studio 2017\Projects\Clustering\Clustering\bin\Debug\Clustering.exe
+c:\users\jihan\documents\visual studio 2017\Projects\Clustering\Clustering\bin\Debug\Clustering.pdb
+c:\users\jihan\documents\visual studio 2017\Projects\Clustering\Clustering\obj\Debug\Clustering.csprojResolveAssemblyReference.cache
+c:\users\jihan\documents\visual studio 2017\Projects\Clustering\Clustering\obj\Debug\Clustering.exe
+c:\users\jihan\documents\visual studio 2017\Projects\Clustering\Clustering\obj\Debug\Clustering.pdb
